@@ -1,2 +1,2 @@
 # JITConsulting
-JITConsulting website
+Building the JITConsulting website with Jekyll and Tailwind CSS.
